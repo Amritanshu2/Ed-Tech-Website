@@ -69,8 +69,8 @@ The platform uses MongoDB, a NoSQL database, to store course content, user data,
 The RESTful API is built using Node.js and Express.js, utilizing JSON for data exchange and supporting standard HTTP methods (GET, POST, PUT, DELETE).
 
 ### Installation
-1. Clone the repository: `https://github.com/ankitmalik84/Code_Infinity_`
-2. Navigate to the project directory: `cd Code_Infinity_`
+1. Clone the repository: `https://github.com/Amritanshu2/Ed-Tech-Website`
+2. Navigate to the project directory: `cd Ed-Tech-Website`
 3. Install dependencies: `npm install`
 
 ### Configuration
